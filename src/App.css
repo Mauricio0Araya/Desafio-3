@@ -1,0 +1,50 @@
+/* Estilos para la sección appDiv */
+.appDiv {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Estilos para el título */
+  .appDiv h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para el formulario */
+  .appDiv form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .appDiv label {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .appDiv input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .appDiv button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .appDiv button:hover {
+    background-color: #0056b3;
+  }
+body{
+    background-color: #007bff;
+}
